@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <h1>Welcome to my Blog</h1>
-      <Greeting myName="Cemil" isAdmin={false}/>
+      <Greeting myName="Seyfo" isAdmin={false}/>
       <BlogPost isAdmin={false}/>
     </div>
   );
